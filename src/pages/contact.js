@@ -16,10 +16,11 @@ const Contact = () => {
   return (
     <Main>
       <Article>
-        <PageHeader title="Contact" />
+        <PageHeader title="수강신청" />
         <Content>
-          Feel free to contact me by email: <Obfuscate email={config.contactEmail} /> or use the
-          form below.
+          오늘 공부를 시작해보세요! 이메일로 수강신청 해주시면 최대한 빠르게 도와드리겠습니다.<br />
+          이메일로 직접 수강신청을 해주셔도 되고: <Obfuscate email={config.contactEmail} />
+          <br /> 아래 양식을 사용해 직접 수강신청을 해주셔도 됩니다.
         </Content>
         <Form />
       </Article>

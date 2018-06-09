@@ -1,37 +1,26 @@
 ---
 title: About
+menuTitle: 어바웃
 ---
 
-This is a demo site of the [PersonalBlog](https://github.com/greglobinski/gatsby-starter-personal-blog) GatsbyJS starter.
+# 베어링고가 도대체 뭐죠?
 
-The starter is a ready to use, easy to customize 'like theme' starter. It has everything what blog should have and some more.
+## 백그라운드
 
-### Standard features:
+2010년 초반, Washington DC에서 대학에 재학중이던 bearlingo founder는 영어를 배우는데 어려움을 겪고있던 주변의 동료 Asian people을 보면서 기존의 영어교육 방식에 심각한 오류가 있다는 사실을 느끼게 되었습니다. 그는 가장 효과적인 언어 습득 방식을 고민하면서 대학의 언어학 교수님들과 토론을 거듭한 끝에 전혀 새로운 언어습득 방법을 개발하게 되었고 이를 바탕으로 영어교육 전문 회사인 Bearlingo사를 설립하였습니다.
 
-* Easy editable content in **Markdown** files (posts, pages and parts)
-* **SEO** (sitemap generation, robot.txt, meta and OpenGraph Tags)
-* **Social** sharing (Twitter, Facebook, Google, LinkedIn)
-* **Comments** (Facebook)
-* **Images** lazy loading and `webp` support (gatsby-image)
-* Post **categories** (post list filtering)
-* Full text **searching** (Algolia)
-* **Contact** form (Netlify form handling)
-* **RSS** feed
-* **PWA** (manifes.json, offline support, favicons)
-* Google **Analytics**
-* **Favicons** generator (node script)
-* **Material UI** (@next)
+그는 자신의 Canon DSLR과 MacBook Pro를 가지고 최신 영어교육 플랫폼 Bearlingo를 개발하였답니다.
 
-### Advanced features:
+## 문화 위주의 학습
 
-* Easy customizable base **styles** via `theme` object (fonts, colors, sizes)
-* **Components** lazy loading (social sharing, comments)
-* **ESLint** (google config)
-* **Prettier** code styling
-* Custom webpack `CommonsChunkPlugin` settings
-* Webpack `BundleAnalyzerPlugin`
-* Contact **form validation** (react-material-ui-form-validator)
+아이가 언어를 배울때 문법부터 학습하지 않습니다. 아이는 부모님과 함께 생활하며 여러가지 문화요소들을 배우게됩니다. 문화를 이루는 요소들을 바탕으로하여 아이는 언어를 배우게됩니다.
 
-## Instructions
+<b>어른도 아이와 같습니다.</b>
 
-For detailed instructions go to [Front-end web development with Greg](https://dev.greglobinski.com/gatsby-starter-personal-blog/).
+어른도 언어를 배우려할때 문법부터 습득을 하려하면 비효율적이고 언어학습을 결국에는 포기하게 됩니다. 그렇기 때문에 효율적이게 언어를 공부하려면 문화를 먼저 이해해야합니다. 베어링고의 학습방법은 3년간의 조사로 만들어졌습니다. 문화적인 요소들과 언어의 기술적인 요소들이 잘 어울려 베어링고 학습방법으로 공부하는 학생들은 빠르게 효과를 볼수있습니다.
+
+## 같이 공부해봐요!
+
+플랫폼 개발 초기 단계부터 참여한 학생들 덕분에 지난 2년 동안 많은 연구개발이 이루어졌습니다. 베어링고는 현존하는 영어 학습 프로그램중 가장 효율적인 플랫폼이라고 평가받고 있습니다. 베어링고를 처음 접하신 분들은 다소 혼란스러울 수도 있어요. 하지만 베어링고와 함께 해보세요! 베어링고와 함께하면 많은 것을 배울 수 있을 거라고 보장합니다.
+
+[지금 카카오톡으로 연락주세요!](https://pf.kakao.com/_WTkwC)
