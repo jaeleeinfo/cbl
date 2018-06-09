@@ -1,7 +1,7 @@
 ---
-title: Two things are infinite the universe and human stupidity
-subTitle: And I'm not sure about the universe.
-category: "sayings"
+title: 총기 소유와 미국
+subTitle: 총기 소유가 어떻게 미국에 영향을 미치는가?
+category: "Current Topic"
 cover: photo-1490474418585-ba9bad8fd0ea-cover.jpg
 ---
 
