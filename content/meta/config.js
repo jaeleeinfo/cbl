@@ -13,7 +13,7 @@ module.exports = {
   authorTwitterAccount: "jaebv_",
   // info
   infoTitle: "베어링고",
-  infoTitleNote: "bearlingo",
+  infoTitleNote: "Bearlingo v4.1",
   // manifest.json
   manifestName: "Bearlingo",
   manifestShortName: "Bearlingo", // max 12 characters
@@ -25,8 +25,9 @@ module.exports = {
   contactEmail: "admin@bearlingo.com",
   // social
   authorSocialLinks: [
-    { name: "github", url: "https://github.com/greglobinski" },
-    { name: "twitter", url: "https://twitter.com/greglobinski" },
-    { name: "facebook", url: "http://facebook.com/greglobinski" }
+    { name: "kakao", url: "http://pf.kakao.com/_WTkwC" },
+    { name: "vocab", url: "https://quizlet.com/bearlingo" },
+    { name: "reddit", url: "https://reddit.com/r/bearlingo" },
+    { name: "youtube", url: "https://www.youtube.com/channel/UC95zN8_YJDZFk99aZodJrvw/" }
   ]
 };

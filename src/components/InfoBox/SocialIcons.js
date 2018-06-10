@@ -4,8 +4,10 @@ import injectSheet from "react-jss";
 
 import config from "../../../content/meta/config";
 
-import { ReactComponent as GithubIcon } from "../../images/svg-icons/github.svg";
-import { ReactComponent as FacebookIcon } from "../../images/svg-icons/facebook.svg";
+import { ReactComponent as RedditIcon } from "../../images/svg-icons/reddit3.svg";
+import { ReactComponent as KktIcon } from "../../images/svg-icons/kktlogo.svg";
+import { ReactComponent as YoutubeIcon } from "../../images/svg-icons/youtube.svg";
+import { ReactComponent as VocabIcon } from "../../images/svg-icons/vocab.svg";
 import { ReactComponent as TwitterIcon } from "../../images/svg-icons/twitter.svg";
 
 const styles = theme => ({
@@ -36,8 +38,10 @@ const Socialcons = props => {
   const items = config.authorSocialLinks;
   const icons = {
     twitter: TwitterIcon,
-    facebook: FacebookIcon,
-    github: GithubIcon
+    vocab: VocabIcon,
+    kakao: KktIcon,
+    reddit: RedditIcon,
+    youtube: YoutubeIcon
   };
 
   return (
