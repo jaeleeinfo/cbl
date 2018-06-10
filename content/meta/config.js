@@ -1,9 +1,9 @@
 const colors = require("../../src/styles/colors");
 
 module.exports = {
-  siteTitle: "Bearingo", // <title>
+  siteTitle: "베어링고", // <title>
   shortSiteTitle: "베어링고", // <title> ending for posts and pages
-  siteDescription: "Leader in English Education",
+  siteDescription: "대한민국 영어 교육의 선두자",
   siteUrl: "http://bearlingo.com",
   pathPrefix: "",
   siteImage: "preview.jpg",
