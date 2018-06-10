@@ -22,6 +22,11 @@ cover: guns-cover.jpg
 
 이 쟁점을 두고 미국 여론은 심각하게 양극화 되어있습니다. 지금도 미국에서 "Gun Debate"은 끝날 여지가 보이지 않습니다.
 
+<hr />
+
+## 베어링고 영어 블로그
+
+#### [단어장](https://quizlet.com/_4zewyf) 꼭 참고하세요!
 
 ![Constitution](./constitution.jpg)
 
