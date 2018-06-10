@@ -28,6 +28,6 @@ module.exports = {
     { name: "kakao", url: "http://pf.kakao.com/_WTkwC" },
     { name: "vocab", url: "https://quizlet.com/bearlingo" },
     { name: "reddit", url: "https://reddit.com/r/bearlingo" },
-    { name: "youtube", url: "https://www.youtube.com/channel/UC95zN8_YJDZFk99aZodJrvw/" }
+    { name: "classroom", url: "https://classroom.google.com/u/0/c/MTU4NDEwMTc3Mzda" }
   ]
 };

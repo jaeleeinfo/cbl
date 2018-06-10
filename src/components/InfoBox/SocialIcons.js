@@ -6,6 +6,7 @@ import config from "../../../content/meta/config";
 
 import { ReactComponent as RedditIcon } from "../../images/svg-icons/reddit3.svg";
 import { ReactComponent as KktIcon } from "../../images/svg-icons/kktlogo.svg";
+import { ReactComponent as ClassroomIcon } from "../../images/svg-icons/classroom.svg";
 import { ReactComponent as YoutubeIcon } from "../../images/svg-icons/youtube.svg";
 import { ReactComponent as VocabIcon } from "../../images/svg-icons/vocab.svg";
 import { ReactComponent as TwitterIcon } from "../../images/svg-icons/twitter.svg";
@@ -41,6 +42,7 @@ const Socialcons = props => {
     vocab: VocabIcon,
     kakao: KktIcon,
     reddit: RedditIcon,
+    classroom: ClassroomIcon,
     youtube: YoutubeIcon
   };
 
