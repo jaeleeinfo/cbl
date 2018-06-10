@@ -41,8 +41,6 @@ As of now, nothing has been resolved.  School shootings continue to happen with 
 
 ## 주제에 관련된 비디오:
 
-### 1. 
-[![gundebate](http://img.youtube.com/vi/3svs-nHtlNg/0.jpg)](http://www.youtube.com/watch?v=3svs-nHtlNg "gundebate")
+### [Gun Debate](http://www.youtube.com/watch?v=3svs-nHtlNg)
 
-### 2.
-[![gundebate2](http://img.youtube.com/vi/bX4qUsgHa4Y/0.jpg)](http://www.youtube.com/watch?v=bX4qUsgHa4Y "gundebate2")
+### [Gun Violence in the US](http://www.youtube.com/watch?v=bX4qUsgHa4Y)
