@@ -26,4 +26,4 @@ menuTitle: 어바웃
 
 플랫폼 개발 초기 단계부터 참여한 학생들 덕분에 지난 2년 동안 많은 연구개발이 이루어졌습니다. 베어링고는 현존하는 영어 학습 프로그램중 가장 효율적인 플랫폼이라고 평가받고 있습니다. 베어링고를 처음 접하신 분들은 다소 혼란스러울 수도 있어요. 하지만 베어링고와 함께 해보세요! 베어링고와 함께하면 많은 것을 배울 수 있을 거라고 보장합니다.
 
-<a href="http://pf.kakao.com/_WTkwC"><img border="0" alt="kkt-bearlingo" src="https://i.imgur.com/8adaRsP.png"></a>
+[![kktlink](./kktlink.svg)](http://pf.kakao.com/_WTkwC)

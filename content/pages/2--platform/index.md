@@ -3,7 +3,7 @@ title:
 menuTitle: 학습 플랫폼
 ---
 
-![BearlingoPlatform](./bestenglish.svg)
+![CultureHard](./culture_hard.svg)
 
 ![Compare](./rivalry.svg)
 
@@ -11,6 +11,4 @@ menuTitle: 학습 플랫폼
 
 <br />
 
-![CultureHard](./culture_hard.svg)
-
-<a href="http://pf.kakao.com/_WTkwC"><img border="0" alt="kkt-bearlingo" src="https://i.imgur.com/8adaRsP.png"></a>
+[![kktlink](./kktlink.svg)](http://pf.kakao.com/_WTkwC)
