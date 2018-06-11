@@ -4,7 +4,9 @@ subTitle: 미국 헌법 2조...미국에 어떤 영향을?
 category: "Current Topic"
 cover: guns-cover.jpg
 ---
-*베어링고 6/10 ~ 6/16 주제입니다.*
+
+![DayUpdate](./dayupdate.svg)
+---
 
 
 이번주에는 미국이 겪고있는 수 많은 문제중 가장 심각한 문제라고 생각되는 총기난사 문제에 대해서 이야기 해보도록 하겠습니다.
