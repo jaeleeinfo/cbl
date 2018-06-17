@@ -5,7 +5,7 @@ category: "Current Topic"
 cover: guns-cover.jpg
 ---
 
-# Day 3 ~ 4
+# REVIEW / FINISHING
 
 
 [![podcastko](./podcast.svg)](https://drive.google.com/file/d/1d-QwjtzgyYjqf2jyIkjrDG4uzmyKyrAO/view?usp=sharing)
