@@ -7,8 +7,10 @@ cover: guns-cover.jpg
 
 # 주제 진행상황: 마무리
 
+### 총 23명의 학생이 토론에 참가했습니다.
 
-[폿캐스트 듣기](./podcast.svg)](https://drive.google.com/file/d/1d-QwjtzgyYjqf2jyIkjrDG4uzmyKyrAO/view?usp=sharing)
+
+[폿캐스트 듣기](https://drive.google.com/file/d/1d-QwjtzgyYjqf2jyIkjrDG4uzmyKyrAO/view?usp=sharing)
 
 ---
 
