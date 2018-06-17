@@ -1,14 +1,14 @@
 ---
-title: 총 그리고 미국 (현재 토픽)
+title: 총 그리고 미국 (마무리중)
 subTitle: 미국 헌법 2조...미국에 어떤 영향을?
-category: "Current Topic"
+category: "Past Topics"
 cover: guns-cover.jpg
 ---
 
-# REVIEW / FINISHING
+# 주제 진행상황: 마무리
 
 
-[![podcastko](./podcast.svg)](https://drive.google.com/file/d/1d-QwjtzgyYjqf2jyIkjrDG4uzmyKyrAO/view?usp=sharing)
+[폿캐스트 듣기](./podcast.svg)](https://drive.google.com/file/d/1d-QwjtzgyYjqf2jyIkjrDG4uzmyKyrAO/view?usp=sharing)
 
 ---
 
