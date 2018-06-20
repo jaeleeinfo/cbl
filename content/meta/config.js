@@ -27,7 +27,7 @@ module.exports = {
   authorSocialLinks: [
     { name: "kakao", url: "http://pf.kakao.com/_WTkwC" },
     { name: "vocab", url: "https://quizlet.com/bearlingo" },
-    { name: "reddit", url: "https://reddit.com/r/bearlingo" },
+    { name: "reddit", url: "http://discourse.bearlingo.com" },
     { name: "classroom", url: "https://classroom.google.com/u/0/c/MTU4NDEwMTc3Mzda" }
   ]
 };
