@@ -5,7 +5,14 @@ category: "Current Topic"
 cover: FF-logo.jpg
 ---
 
-# 주제 진행상황: Day 1 ~ 2. 자료 공부하기
+## Learning Path:
+**Day 1 ~ 2 (일,월,화): 주제 공부하기**
+
+**Day 3 ~ 4 (수,목): 글쓰기**
+
+**Day 5 (금): 발표시간**
+
+**Day 6 (토): 리뷰하기**
 
 ---
 [폿캐스트 듣기](https://drive.google.com/file/d/1rCTBeQbEKOdo_x3lxBQBfKxM-1Sga--W/view?usp=sharing)
@@ -36,7 +43,7 @@ As a result, the traditional fast food chains began to make changes to their men
 
 As traditional fast food falls out of favor with Americans, some of the chains have begun to rely on international locations for much of their business.  For instance, according to one blog, 61% of McDonald’s locations are outside of the U.S., compared with 51% of Burger King locations, 50% of Pizza Hut locations, and a surprising 78% of KFC locations.1  McDonald’s international sales rose 5.5% in 2018, in sharp contrast to their sales within the U.S.
 
-American fast food chains that also operate in other nations tailor their menus to local demands.  For instance, For instance, Domino’s Pizza offers curry as a topping in India, while Pizza Hut offers teriyaki chicken in Japan.  McDonald’s offers the Big Mac everywhere, but also has specialized burgers in Japan, as well as dipping sauces that have more of an Asian flavor profile.
+American fast food chains that also operate in other nations tailor their menus to local demands. For instance, Domino’s Pizza offers curry as a topping in India, while Pizza Hut offers teriyaki chicken in Japan.  McDonald’s offers the Big Mac everywhere, but also has specialized burgers in Japan, as well as dipping sauces that have more of an Asian flavor profile.
 
 Sources
 1: https://www.thebalancesmb.com/how-american-fast-food-franchises-expanded-abroad-1350955
