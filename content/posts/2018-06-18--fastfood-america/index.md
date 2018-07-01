@@ -1,5 +1,5 @@
 ---
-title: 패스트푸드와 미국문화 (마무리)
+title: 패스트푸드와 미국문화 (종료)
 subTitle: 지금도 대중들의 사랑을 받고있을까요?
 category: "Past Topic"
 cover: FF-logo.jpg

@@ -1,5 +1,5 @@
 ---
-title: 이민 (현재 토픽)
+title: 이민 (마무리)
 subTitle: 이민의 국가 미국
 category: "Current Topic"
 cover: imm-logo.jpg

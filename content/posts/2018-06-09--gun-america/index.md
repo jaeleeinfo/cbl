@@ -1,7 +1,7 @@
 ---
-title: 총 그리고 미국 (종료)
+title: 총 그리고 미국
 subTitle: 미국 헌법 2조...미국에 어떤 영향을?
-category: "Past Topics"
+category: "Past Topic"
 cover: guns-cover.jpg
 ---
 
